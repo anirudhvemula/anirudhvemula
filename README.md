@@ -7,6 +7,6 @@ This space is where I experiment with:
 - ✍️ Typeface design & graphics
 - 🔍 Systems thinking, optimization, and workflows
 
-📚 Always learning, always building.  
-
+📚 Always learning, always building!
+<br><br><br>
 🔗 More about me: <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="LinkedIn_icon.svg" width="12"> [LinkedIn](https://www.linkedin.com/in/anirudh-vemula/) 
