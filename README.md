@@ -9,4 +9,4 @@ This space is where I experiment with:
 
 📚 Always learning, always building.  
 
-🔗 More about me: [LinkedIn](https://www.linkedin.com/in/anirudh-vemula/) 
+🔗 More about me: <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="LinkedIn_icon.svg" width="12"> [LinkedIn](https://www.linkedin.com/in/anirudh-vemula/) 
