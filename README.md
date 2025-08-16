@@ -10,3 +10,4 @@ This space is where I experiment with:
 📚 Always learning, always building!
 <br><br><br>
 🔗 More about me: <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="LinkedIn_icon.svg" width="12"> [LinkedIn](https://www.linkedin.com/in/anirudh-vemula/) 
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My personal website: [anirudhvemula.github.io](https://anirudhvemula.github.io)
